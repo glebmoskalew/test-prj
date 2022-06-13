@@ -1,3 +1,4 @@
+git clone git@github.com:gmozg/hints.git
 git init # отслеживать изменения в новом проекте
 git add . # добавить новые файлы в отслеживание
 git pull # стянуть изменения с ветки
